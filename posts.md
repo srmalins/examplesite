@@ -2,9 +2,6 @@
 layout: default
 ---
 
-{{ post.url }}<br />
-{{ site.baseurl }}
-
 <ul>
   {% for post in site.posts %}
     <li>
