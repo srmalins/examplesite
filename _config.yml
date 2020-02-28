@@ -1,1 +1,5 @@
+title: Jane Doe
+description: With Github Pages, anyone can make a website
+show_downloads: false
 theme: jekyll-theme-midnight
+email: test@example.com
